@@ -1,0 +1,14 @@
+C:\Criptografia\Criptografia\bin\Release\Criptografia.exe.config
+C:\Criptografia\Criptografia\bin\Release\Criptografia.exe
+C:\Criptografia\Criptografia\bin\Release\Criptografia.pdb
+C:\Criptografia\Criptografia\obj\Release\Criptografia.csprojAssemblyReference.cache
+C:\Criptografia\Criptografia\obj\Release\Criptografia.Form1.resources
+C:\Criptografia\Criptografia\obj\Release\Criptografia.Properties.Resources.resources
+C:\Criptografia\Criptografia\obj\Release\Criptografia.csproj.GenerateResource.cache
+C:\Criptografia\Criptografia\obj\Release\Criptografia.csproj.CoreCompileInputs.cache
+C:\Criptografia\Criptografia\obj\Release\Criptografia.exe
+C:\Criptografia\Criptografia\obj\Release\Criptografia.pdb
+C:\Criptografia\Criptografia\bin\Release\Criptografia.exe.manifest
+C:\Criptografia\Criptografia\bin\Release\Criptografia.application
+C:\Criptografia\Criptografia\obj\Release\Criptografia.exe.manifest
+C:\Criptografia\Criptografia\obj\Release\Criptografia.application
